@@ -1,2 +1,2 @@
-# Neptune.ParticipantLibrary
-Neptune.ParticipantLibrary
+# Neptune.TournamentStructure
+Neptune.TournamentStructure
